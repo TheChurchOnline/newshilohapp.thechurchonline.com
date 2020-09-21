@@ -1,0 +1,7 @@
+{
+  "name": "com.thechurchonline.newshilohapp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "custom"
+}
