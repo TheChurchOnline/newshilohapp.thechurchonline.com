@@ -4357,7 +4357,7 @@ var GlobalVars = /** @class */ (function () {
         this.data = null;
         this.useDynamicContentModule = false; // false when using our builder on remote Ionic builder?
         // url should be WP site with AP installed, dynamically changes based on build form
-        this.appid = '11286';
+        this.appid = '11361';
         this.apiurl = 'https://myapppresser.com/web-tco/';
         this.endpoint = 'wp-json/ap3/v1/app/';
         this.wooAuth = '[[woo_auth_string]]';
