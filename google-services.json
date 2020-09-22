@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "880802505050",
+    "firebase_url": "https://new-shiloh-app.firebaseio.com",
+    "project_id": "new-shiloh-app",
+    "storage_bucket": "new-shiloh-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880802505050:android:2fd012ba9d29a82e971363",
+        "android_client_info": {
+          "package_name": "com.thechurchonline.newshilohapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880802505050-t8l9g5gu5hqidb6agrihdjdtk45iu88a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN5SeHWxR-KkizoZkHDvgKIX3mJH8C7lE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880802505050-t8l9g5gu5hqidb6agrihdjdtk45iu88a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
