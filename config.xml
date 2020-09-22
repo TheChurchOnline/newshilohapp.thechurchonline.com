@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.shilohbaptist.app" version="1.6.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Shiloh Baptist</name>
-    <description>Shiloh Baptist Church</description>
+<widget id="com.thechurchonline.newshilohapp" version="1.6.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>New Shiloh Baptist Church</name>
+    <description>New Shiloh Baptist Church</description>
     <author email="web@thechurchonline.com" href="http://thechurchonline.com/">The Church Online</author>
     <edit-config file="*-Info.plist" mode="merge" target="CFBundleShortVersionString">
         <string>100</string>
