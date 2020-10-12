@@ -22,8 +22,12 @@
     <plugin name="cordova-plugin-ionic-keyboard" source="npm" spec="2.1.3" />
     <plugin name="cordova-plugin-file-opener2" source="npm" spec="3.0.0" />
     <plugin name="cordova-plugin-whitelist" source="npm" spec="1.3.3"/>
-    <resource-file src="FooPluginStrings.xml" target="res/values/FooPluginStrings.xml" />
-    <hook src="scripts/afterPluginInstall.js" type="after_plugin_install" />
+	<!-- <plugin name="phonegap-plugin-push" source="npm" spec="2.2.3">
+        <param name="SENDER_ID" value="513455063671" />
+    </plugin>
+    <platform name="android">
+        <resource-file src="google-services.json" target="app/google-services.json" />
+    </platform> -->
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
@@ -52,8 +56,8 @@
     <platform name="ios">
         <preference name="Orientation" value="portrait" />
     </platform>
-    <preference name="AutoHideSplashScreen" value="true" />
-    <preference name="StatusBarOverlaysWebView" value="true" />
+    <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="StatusBarOverlaysWebView" value="true"/>
     <preference name="SplashScreenDelay" value="7000" />
     <preference name="keyboardDisplayRequiresUserAction" value="false" />
     <preference name="ShowSplashScreenSpinner" value="false" />
