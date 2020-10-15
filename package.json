@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/TheChurchOnline/newshilohapp.thechurchonline.com/issues"
   },
+  "cordova-plugin-inappbrowser": "git+https://github.com/apache/cordova-plugin-inappbrowser.git",
   "homepage": "https://github.com/TheChurchOnline/newshilohapp.thechurchonline.com#readme"
 }
