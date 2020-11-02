@@ -153,5 +153,5 @@
         
     <allow-navigation href="httpsionic://*" />
     <allow-navigation href="http://*/*" />
-
+    <allow-navigation href="https://*/*" />
 </widget>
