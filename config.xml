@@ -15,9 +15,11 @@
     <platform name="ios" />
     <platform name="android" />
 
-    <edit-config target="CFBundleShortVersionString" file="*-Info.plist"  mode="merge">
+    <!-- 
+	<edit-config target="CFBundleShortVersionString" file="*-Info.plist"  mode="merge">
         <string>370</string>
     </edit-config>
+	-->
 
     <preference name="phonegap-version" value="cli-9.0.0" />
     <preference name="android-targetSdkVersion" value="29" />
